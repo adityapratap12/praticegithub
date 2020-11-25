@@ -20,4 +20,6 @@ n=int(input("enter the value of n"))
 for i in range (0,n):
     ese=int(input())
     arr.append(ese)
+print("this is the program of the arry of negative number with lest hand side")
 negfirst(arr, n)
+
